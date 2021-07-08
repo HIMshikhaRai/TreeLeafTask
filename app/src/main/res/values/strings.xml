@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">RealmCrud</string>
+
+    <string name="name">Name</string>
+    <string name="email">Email</string>
+    <string name="address">Address</string>
+    <string name="gender">Gender</string>
+    <string name="description">Description</string>
+    <string name="male">Male</string>
+    <string name="female">Female</string>
+    <string name="other">Other</string>
+    <string name="submit">Submit</string>
+    <string name="update">Update</string>
+
+    <string-array name="gender_array">
+        <item>Select gender</item>
+        <item>@string/male</item>
+        <item>@string/female</item>
+        <item>@string/other</item>
+    </string-array>
+</resources>
